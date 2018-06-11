@@ -1,9 +1,12 @@
 # CarmudiTakeHomeExam
 
-An Unit Android Test is a test that needs an Android device or emulator but it's different from a UI test because it doesn't start any activities.
+This is take home exam in Carmudi Android Application Developer position.
 
-In this sample the test can't run without the Android Framework because the Parcel class is used in one of the methods of the Parcelable interface and the way data is written into a Parcel and read from it is not trivial enough to be stubbed.
+This project use this external libs
 
-Note that the unit test is placed in /androidTest/ instead of /test/.
-
-This project uses the Gradle build system. You can either benefit from IDEs integration such as Android studio or run the tests on the command line.
+* [Retrofit ](http://square.github.io/dagger/)
+* [Dagger](http://square.github.io/retrofit/)
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+* [Rxjava2](https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0)
+* [ButterKnife](http://jakewharton.github.io/butterknife/)
+* [Glide](https://github.com/bumptech/glide)
