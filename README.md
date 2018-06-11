@@ -1,6 +1,12 @@
 # CarmudiTakeHomeExam
 
-This is take home exam in Carmudi Android Application Developer position.
+This is for take home exam in Carmudi Android Application Developer position.
+
+Tools in Development:
+
+- [Android Studio]
+- [Postman]
+- [Android Emulator Built-in]
 
 This project use this external libs
 
